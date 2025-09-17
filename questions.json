@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital city of Australia?",
+    "answer": "canberra",
+    "options": ["sydney", "melbourne", "canberra", "hobart"],
+    "category": "easy"
+  },
+  {
+    "question": "What year did the First World War end?",
+    "answer": "1918",
+    "options": ["1918", "1939", "1914", "1945"],
+    "category": "easy"
+  },
+  {
+    "question": "What is the most common element on our atmosphere?",
+    "answer": "nitrogen",
+    "options": ["oxygen", "nitrogen", "helium", "gas"],
+    "category": "medium"
+  },
+  {
+    "question": "Which is the hottest planet on our Solar System?",
+    "answer": "venus",
+    "options": ["earth", "mercury", "venus", "mars"],
+    "category": "medium"
+  },
+  {
+    "question": "How many lobes does the human brain have?",
+    "answer": "4",
+    "options": ["2", "5", "8", "4"],
+    "category": "hard"
+  },
+  {
+    "question": "Who created the atomic bomb?",
+    "answer": "oppenheimer",
+    "options": ["einstein", "newton", "oppenheimer", "galilei"],
+    "category": "hard"
+  },
+  {
+    "question": "Who managed to win two Nobel prizes in two different fields?",
+    "answer": "curie",
+    "options": ["tesla", "curie", "bohr", "faradei"],
+    "category": "hard"
+  },
+  {
+    "question": "Which programming language is named after an animal?",
+    "answer": "python",
+    "options": ["java", "assembly", "html", "python"],
+    "category": "hard"
+  },
+  {
+    "question": "Which ancient civilization was known for its pyramids?",
+    "answer": "egypt",
+    "options": ["rome", "egypt", "mesopotamia", "persia"],
+    "category": "easy"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answer": "vatican city",
+    "options": ["andorra", "malta", "monaco", "vatican city"],
+    "category": "medium"
+  }
+]
